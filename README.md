@@ -47,7 +47,9 @@ The dataset can be used for multiple purposes but I used it here just to check t
 **4. Libraries used**
 
 Numpy: Python library used for working with arrays
+
 Pandas: It has functions for analyzing, cleaning, exploring, and manipulating data
+
 Seaborn: library for making statistical graphics in Python
 
 **5. Data Source**
