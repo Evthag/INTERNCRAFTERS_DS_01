@@ -43,3 +43,13 @@ loan_status (target variable)	Loan approval status: 1 = approved; 0 = rejected	I
 
 The dataset can be used for multiple purposes but I used it here just to check the distribution of the variables
 
+
+**4. Libraries used**
+
+Numpy: Python library used for working with arrays
+Pandas: It has functions for analyzing, cleaning, exploring, and manipulating data
+Seaborn: library for making statistical graphics in Python
+
+**5. Data Source**
+
+Link: https://www.kaggle.com/datasets/taweilo/loan-approval-classification-data
